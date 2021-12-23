@@ -1,5 +1,6 @@
 # DocVision
 DETECTING DIABETIC RETINOPATHY THROUGH RETINAL IMAGES
+
 One of the most important involvements of AI in our life has been in the field of healthcare. 
 It has been applied to address various problems of the field ranging from diagnosis processes, drug development, personalized medicine, and patient care. 
 Departments such Oncology, Dermatology, Cardiology are actively incorporating these leading technologies as a part of their treatment process. 
